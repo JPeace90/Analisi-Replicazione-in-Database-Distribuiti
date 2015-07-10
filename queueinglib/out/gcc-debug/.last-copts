@@ -1,0 +1,1 @@
+-g -Wall   -I/usr/include -fno-stack-protector -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER -DQUEUEING_EXPORT -I. -Iqueueinglib -Itemplates -Itemplates/queueing -If:/Programmi/omnetpp-4.5/include

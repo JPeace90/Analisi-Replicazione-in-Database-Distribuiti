@@ -1,0 +1,1 @@
+-O2 -DNDEBUG=1   -I/usr/include -fno-stack-protector -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I. -If:/Programmi/omnetpp-4.5/include
